@@ -36,7 +36,7 @@ This script is designed to read and extract text from a CMS-1500 form PDF file. 
 
 ### License
 
-This project is licensed under the MIT License.
+Due to company policies, we are unable to disclose the specifics of the project.
 
 
 
